@@ -1,0 +1,46 @@
+
+/* THISis external style  */
+p{
+    font-size: 24px;
+    color: rgb(184, 81, 186);
+}
+
+#para1{
+    color: darkgreen;
+    background-color: aquamarine;
+    margin: 15px;
+    padding: 25px;
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+    
+}
+#para2{
+    color: darkturquoise;
+    background-image: url(passport.png);
+    background-size: cover;
+    background-position: center;
+}
+.font1{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;  
+}
+body{
+    background-image: url(passport.png);
+    background-size:cover;
+    background-position: center;
+}
+#para3{
+    border-width: 5px;
+    border-style:inset;
+    border-color: brown;
+    border-radius: 10px;
+}
+body{
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+    margin: 30px;
+    padding: 20px;
+}
